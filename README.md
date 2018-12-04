@@ -15,45 +15,24 @@ On the google play store there is a game called Asphalt 9. It is a racing game w
 
 #### Examples of APIs:
 - Google maps - A web mapping made my google which gives users a 360 degree view of an area such as a street or town.
-- Linkedin.. - A social networking website used for the business community, used for businesses to communicate with potencial staff and otehr businesses.
+- Linkedin - A social networking website used for the business community, used for businesses to communicate with potencial staff and otehr businesses.
 - Houndify - Is an platform which allows anyone to add a smart voice enabled conversational interface.
 - NASA's API
 - Gmail - A emailing service made by google which allows people to communicate which each other where ever they are.
 - Github - Is a repository hosting service where businesses, students and anyone that has access to the internet can upload work, help sheets and projects onto a read me document for either eveyrone to see or just your friends.
-- Twitter.. - Is a social media platform where anyone can add upload a 'tweet' containing any information they would like to share with their followers.
+- Twitter - Is a social media platform where anyone can add upload a 'tweet' containing any information they would like to share with their followers.
 - Slack -  Is a cloud based tool that helps teams collaborate with each other using Slack's tools and services.
 - Facebook - Is a social media platform where anyone can upload pictures and their thought to their friends and family.
 
 #### Assessing a range of APIs for a platform
-On a daily basis we all use several APIs without even noticing, a few of these are forms of social media that we use for scrolling the time away for hours. For example, we have Twitter. Twitter is a social media platform that allows celebrities to connect with fans, and the average person to speak to friends and family, upload pictures and keep up with the gossip that goes on within the news and celebrity world. An example of an API within Twitter is the search option. By typing anything you want into the search bar Twitter will show you eveyrhting they have on that subject, person or place on their site. Additionally, if you were to search Call of Duty it would bring back the most popular tweets recently on Call of Duty, the latest tweet, accounts called Call of Duty, pictures that contain the hashtag Call of Duty, videos that contain the hashtag and finally any news Twitter can find on Call of Duty. As you can see the search tool is very useful and is an incredible tool to have. Additionally,  it gives users millions of tweets, pictures, profiles, photos and news on any topic they want to know about which is a huge plus of using Twitter
+On a daily basis we all use several APIs without even noticing, a few of these are forms of social media that we use for scrolling the time away for hours. For example, we have Twitter. Twitter is a social media platform that allows celebrities to connect with fans, the average person to speak to friends and family, upload pictures and keep up with the gossip that goes on within the news and celebrity world. An example of an API within Twitter is the search option. By typing anything you want into the search bar Twitter will show you eveyrhting they have on that subject, person or place on their site. Additionally, if you were to search Call of Duty it would bring back the most popular tweets recently on Call of Duty, the latest tweet, accounts called Call of Duty, pictures that contain the hashtag Call of Duty, videos that contain the hashtag and finally any news Twitter can find on Call of Duty. As you can see the search tool is very useful and is an incredible tool to have. Additionally, it gives users millions of tweets, pictures, profiles, photos and news on any topic they want to know about which is a huge plus of using Twitter
 
-Secondly, we have Linkedin, Linkedin is a social media platform that allows users to follow hashtags which will then customise the users feed to contain news and posts from and about their followed hastags. Additionally, the feature I am going to talk about is their job feature. Thier job feature will show you job vacanies depending on your account and the hashtags you follow. Additionally, you can personalize your 'career interests' which allows you to chose what kind of jobs it wants you to find and allows you to chose options like, when would you like to start, where you would like the job to be located, what type of job you want, the size of the company you would like to join and which industry you would like to search for. As you can see the job feature is filled will customisation to help you find the perfect job for you. It does this very well and deserves all the praise is gets as you can spend a few minutes customising the job feed and within seconds you will have thousands of jobs that all meet the requirements of the job you are searching for.
+Secondly, we have Linkedin, Linkedin is a social media platform that allows users to follow hashtags which will then customise the users feed to contain news and posts from and about their followed hastags. Additionally, the feature/API I am going to talk about is their job feature. Thier job feature will show you job vacanies depending on your account and the hashtags you follow. Additionally, you can personalize your 'career interests' which allows you to chose what kind of jobs it wants you to find and allows you to chose options like, when would you like to start, where you would like the job to be located, what type of job you want, the size of the company you would like to join and which industry you would like to search for. As you can see the job feature is filled will customisation to help you find the perfect job for you. It does this very well and deserves all the praise is gets as you can spend a few minutes customising the job feed and within seconds you will have thousands of jobs that all meet the requirements of the job you are searching for.
+
+Thirdly, the next API I am going to talk about is the memories API within facebook. Facebook is a social media platform where you are able to message friends or family, upload status' and upload photos for all your friends and family to see. The API within facebook is called memories it is a feature that allows you to look back on things you've posted on this day in the past. For example it will show you a photo that you posted on this day 4 years ago. It will go back more than 10 years and will bring everything up did on that day. It is an incredible tool that allows people to relive past moments additionally, it allows people to share thier memories that have shown up that day to all their friends and family.
 
 #### White box testing
-There are a few steps when it comes to White box testing. firstly, the tester will normally get a feel for the source code they are wokring with if they dont already know it. As white box testing is the testing of the inside of an application the tester needs to be very knowledgeable within the language the code is written in. Additionally,the tester must be up to date with secure coding practices so they can tell when the code is up to a high, secure standard. One of the most common reasons people white box test is to test security protocols of the code to make sure a hacker can not get in and inject it with malicous code. Lastly, the developer/tester will test the codes flow and structure they test this by writing code this will test the code itself. This part is often done by the developer as you will need intricute knowledge about the code itself. Another way to test the code is to manualy test it yourself or by using the common way trial and error.
+There are a few steps when it comes to White box testing. firstly, the tester will normally get a feel for the source code they are working with if they dont already know it. As white box testing is the testing of the inside of an application the tester needs to be very knowledgeable within the language the code is written in. Additionally,the tester must be up to date with secure coding practices so they can tell when the code is up to a high, secure standard. One of the most common reasons people white box test is to test security protocols of the code to make sure a hacker can not get in and inject it with malicous code. Lastly, the developer/tester will test the codes flow and structure they test this by writing code that will test the code itself. This part is often done by the developer as you will need intricute knowledge about the code itself. Another way to test the code is to manualy test it yourself or by using the common way trial and error.
 
 #### Black box testing
 Black box testing is also know as behavioral testing, is a testing method where the tester does not know the internal structure, design and implementation of the item being tested, and these tests are normally functional though can also be non-functional. The name is a description of the item that the tester is testing as it is like a black box where the tester can not see what is inside the item. Within black box testing the tester will be looking for interface errors, behaviour or performance errors, errors in data structures, external database access, initialization errors, termination errors and incorrect or missing fucntions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
