@@ -29,8 +29,7 @@ On a daily basis we all use several APIs without even noticing, a few of these a
 
 Secondly, Twitter has a notification API. This API will have its own tab where it will compile events such as people you follow following other people, people you follow being followed, people tagging or liking your tweets and by tapping on one of the 'highlights' it gives you videos and pictures based on the 'highlight' you have tapped. For example you may find your favouritr singer has been followe by another famouse singer and if you tap on one of their highlights in your notifications tab it will bring up pictures and videos related to what you have just tapped.
 
-Thirdly, 
-
+Thirdly, an extrememly helpful API that twitter uses is the text message API. This means users dont have to be connected to the internet to see and send tweets to their account. Users are able to send and recieve tweets via text message meaning wherever you are you're able to keep up to date, also helping people out that have small amounts of data and dont want to use it all up tweeting.
 
 
 
