@@ -31,9 +31,6 @@ Secondly, Twitter has a notification API. This API will have its own tab where i
 
 Thirdly, an extrememly helpful API that twitter uses is the text message API. This means users dont have to be connected to the internet to see and send tweets to their account. Users are able to send and recieve tweets via text message meaning wherever you are you're able to keep up to date, also helping people out that have small amounts of data and dont want to use it all up tweeting.
 
-
-
-
 #### White box testing
 There are a few steps when it comes to White box testing. firstly, the tester will normally get a feel for the source code they are working with if they dont already know it. As white box testing is the testing of the inside of an application the tester needs to be very knowledgeable within the language the code is written in. Additionally,the tester must be up to date with secure coding practices so they can tell when the code is up to a high, secure standard. One of the most common reasons people white box test is to test security protocols of the code to make sure a hacker can not get in and inject it with malicous code. Lastly, the developer/tester will test the codes flow and structure they test this by writing code that will test the code itself. This part is often done by the developer as you will need intricute knowledge about the code itself. Another way to test the code is to manualy test it yourself or by using the common way trial and error.
 
